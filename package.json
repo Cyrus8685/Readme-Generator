@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "inquirer": "^10.0.1",
-    "node": "^18.20.4"
-  }
-}

@@ -1,0 +1,15 @@
+{
+  "name": "readme-inquirer-gen",
+  "version": "1.0.0",
+  "description": "A README generator that make a Good README.md for a new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shelb-DOC",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "inquirer": "^8.2.4"
+  }
+}
